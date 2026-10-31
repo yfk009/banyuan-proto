@@ -4,6 +4,16 @@
 
 ## 打开方式
 
+在线（云端已上线）：
+
+```
+https://yfk009.github.io/banyuan-proto/
+```
+
+由 GitHub Actions 自动发布：push 到 `main` 后重新构建上线（workflow 见 `.github/workflows/pages.yml`）。
+
+本地：
+
 ```
 双击 index.html（或浏览器打开 file:// 路径）
 ```
